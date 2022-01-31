@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noorchalim
-- 👀 I’m interested in Mobile application
-- 🌱 I’m currently learning Java, python, C++
+- 👀 I’m interested in you <3, hehe
+- 🌱 I’m currently learning everythings :)
 - 📫 How to reach me noorchalim3@gmail.com
 
 <!---
