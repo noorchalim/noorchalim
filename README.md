@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @noorchalim
-- 👀 I’m interested in you <3, hehe
+- 👋 Hi, I’m noor chalim
+- 👀 I’m interested in linux web server
 - 🌱 I’m currently learning everythings :)
 - 📫 How to reach me noorchalim3@gmail.com
 
